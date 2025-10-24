@@ -16,12 +16,12 @@ The Harmonized System (HS) is an internationally standardized system of names an
 
 We provide comprehensive documentation about HS codes and implementation guidance:
 
-- **[DOCS_INDEX.md](./DOCS_INDEX.md)** - Complete documentation index and navigation guide
-- **[HSCODE_SUMMARY.md](./HSCODE_SUMMARY.md)** - Comprehensive overview of HS codes
-- **[IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md)** - Technical implementation guide for TypeScript
-- **[QUICK_REFERENCE.md](./QUICK_REFERENCE.md)** - Quick reference and cheat sheet
+- **[DOCS_INDEX.md](./ai/DOCS_INDEX.md)** - Complete documentation index and navigation guide
+- **[HSCODE_SUMMARY.md](./ai/HSCODE_SUMMARY.md)** - Comprehensive overview of HS codes
+- **[IMPLEMENTATION_GUIDE.md](./ai/IMPLEMENTATION_GUIDE.md)** - Technical implementation guide for TypeScript
+- **[QUICK_REFERENCE.md](./ai/QUICK_REFERENCE.md)** - Quick reference and cheat sheet
 
-Start with [DOCS_INDEX.md](./DOCS_INDEX.md) to navigate all available documentation.
+Start with [DOCS_INDEX.md](./ai/DOCS_INDEX.md) to navigate all available documentation.
 
 ## Features (Planned)
 
@@ -55,7 +55,7 @@ const heading = info.getHeading(); // Heading 8471
 
 ## Project Status
 
-This project is currently in the planning and research phase. The comprehensive HS code documentation can be found in [HSCODE_SUMMARY.md](./HSCODE_SUMMARY.md).
+This project is currently in the planning and research phase. The comprehensive HS code documentation can be found in [HSCODE_SUMMARY.md](./ai/HSCODE_SUMMARY.md).
 
 ## License
 
