@@ -1,7 +1,7 @@
 FROM node:25-trixie
 
-WORKDIR /hscode
+WORKDIR /hscode-ts
 
 RUN apt update && apt full-upgrade -y && apt autoremove -y
 
-VOLUME ["/hscode"]
+VOLUME ["/hscode-ts"]

@@ -1,7 +1,7 @@
 .PHONY: build
 build:
-	docker build --no-cache -t hscode .
+	docker build --no-cache -t hscode-ts .
 
 .PHONY: up
 up:
-	docker run -it --init --rm --name hscode -v $$(pwd):/hscode hscode bash
+	docker run -it --init --rm --name hscode-ts -v $$(pwd):/hscode-ts hscode-ts bash
