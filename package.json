@@ -1,0 +1,23 @@
+{
+  "name": "hscode-ts",
+  "version": "0.0.1",
+  "description": "\"A lightweight open-source library for validating HS codes and retrieving product names based on HS classification data.\"",
+  "keywords": [
+    "hscode"
+  ],
+  "homepage": "https://github.com/sedoraid/hscode-ts#readme",
+  "bugs": {
+    "url": "https://github.com/sedoraid/hscode-ts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sedoraid/hscode-ts.git"
+  },
+  "license": "MIT",
+  "author": "yamaga-shu",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "vitest"
+  }
+}
