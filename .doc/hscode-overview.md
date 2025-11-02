@@ -40,7 +40,7 @@ A: The WCO updates the HS nomenclature approximately every 5 years.
 A: The first 6 digits are standardized internationally. National extensions (digits 7-10) vary by country.
 
 **Q: Where can I find official HS code data?**
-A: See the references section in [HSCODE_SUMMARY.md](./HSCODE_SUMMARY.md) for official sources.
+A: See the references section in [hscode-summary.md](./hscode-summary.md) for official sources.
 
 ## Contributing
 
