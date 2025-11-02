@@ -285,7 +285,7 @@ const HS_SUBHEADING_REGEX = /^\d{6}$/;
 ## Support
 
 For detailed information, see:
-- [HSCODE_SUMMARY.md](./HSCODE_SUMMARY.md) - Complete overview
+- [hscode-summary.md](./hscode-summary.md) - Complete overview
 - [IMPLEMENTATION_GUIDE.md](./IMPLEMENTATION_GUIDE.md) - Technical guide
 
 ## License
