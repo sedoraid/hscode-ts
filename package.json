@@ -18,6 +18,14 @@
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
-    "test": "vitest"
+    "build": "tsc -p .",
+    "build:live": "nodemon --watch 'src/**/*.ts' --exec \"ts-node\" src/index.ts",
+    "test": "vitest",
+    "format": "biome format --write src"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.3.2",
+    "@types/node": "^24.9.2",
+    "typescript": "^5.9.3"
   }
 }
